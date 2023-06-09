@@ -1,4 +1,4 @@
-# Pose-based Action Recognition: Robust Models with contrastive loss
+# Pose-based Action Recognition: Robust Models with Contrastive Loss
 
 Semester project
 
