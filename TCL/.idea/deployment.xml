@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="newv" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="alya@128.178.17.176:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/alya/Pose-Based-Action-Recognition/TCL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="alya@128.178.17.92:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/alya/Pose-Based-Action-Recognition/TCL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="newv">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Pose-Based-Action-Recognition/TCL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="vita">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Pose-Based-Action-Recognition/TCL" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

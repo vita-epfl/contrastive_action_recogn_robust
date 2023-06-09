@@ -1,0 +1,10 @@
+Pygments==2.6.1
+tqdm==4.46.0
+torch
+opencv_python
+numpy
+sortedcontainers==2.1.0
+torchvision
+Pillow==8.2.0
+PyYAML==5.4.1
+scikit_learn>=0.24.2
